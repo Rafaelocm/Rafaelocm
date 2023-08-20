@@ -5,8 +5,8 @@
 -🧑‍🎓Formado no Senai Cimatec - Desenvolvimento de Sistema</br>
 
 <div>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelocm&layout=compact&langs_count=16&theme=github_dark"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Rafaelocm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelocm&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Rafaelocm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
